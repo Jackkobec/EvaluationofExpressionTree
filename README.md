@@ -2,7 +2,7 @@
 
 ####   Given a simple expression tree, consisting of basic binary operators i.e., + , – ,* and / and some integers, evaluate the expression tree.
 
-![Image alt](resources/pic21-300x224.png)
+![Image alt](https://github.com/Jackkobec/EvaluationofExpressionTree/blob/master/src/resources/1.png)
 
 ##### Output :
       100
@@ -10,7 +10,7 @@
       Input :
       Root node of the below tree
       
-![Image alt](resources/pic21-300x224.png)
+![Image alt](https://github.com/Jackkobec/EvaluationofExpressionTree/blob/master/src/resources/2.png)
 
 
 ##### Output :
